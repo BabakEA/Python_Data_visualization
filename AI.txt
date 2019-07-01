@@ -1,0 +1,98 @@
+Not to be confused with information science.
+Machine learning and
+data mining
+Kernel Machine.svg
+Problems[show]
+Supervised learning
+(classification • regression)
+[show]
+Clustering[show]
+Dimensionality reduction[show]
+Structured prediction[show]
+Anomaly detection[show]
+Artificial neural networks[show]
+Reinforcement learning[show]
+Theory[show]
+Machine-learning venues[show]
+Glossary of artificial intelligence[show]
+Related articles[show]
+Portal-puzzle.svg Machine learning portal
+vte
+Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.[1][2] Data science is the same concept as data mining and big data: "use the most powerful hardware, the most powerful programming systems, and the most efficient algorithms to solve problems".[3]
+
+Data science is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data.[4] It employs techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, and information science. Turing award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.[5][6] In 2015, the American Statistical Association identified database management, statistics and machine learning, and distributed and parallel systems as the three emerging foundational professional communities.[7]
+
+In 2012, when Harvard Business Review called it "The Sexiest Job of the 21st Century",[8] the term "data science" became a buzzword. It is now often used interchangeably with earlier concepts like business analytics,[9] business intelligence, predictive modeling, and statistics. Even the suggestion that data science is sexy was paraphrasing Hans Rosling, featured in a 2011 BBC documentary with the quote, "Statistics is now the sexiest subject around."[10] Nate Silver referred to data science as a sexed up term for statistics.[11] In many cases, earlier approaches and solutions are now simply rebranded as "data science" to be more attractive, which can cause the term to become "dilute[d] beyond usefulness."[12] While many university programs now offer a data science degree, there exists no consensus on a definition or suitable curriculum contents.[9] To its discredit, however, many data-science and big-data projects fail to deliver useful results, often as a result of poor management and utilization of resources.[13][14][15][16]
+
+History
+The term "data science" has appeared in various contexts over the past thirty years but did not become an established term until recently. In an early usage, it was used as a substitute for computer science by Peter Naur in 1960. Naur later introduced the term "datalogy".[17] In 1974, Naur published Concise Survey of Computer Methods, which freely used the term data science in its survey of the contemporary data processing methods that are used in a wide range of applications.
+
+The modern definition of "data science" was first sketched during the second Japanese-French statistics symposium organized at the University of Montpellier II (France) in 1992[18]. The attendees acknowledged the emergence of a new discipline with a specific focus on data from various origins, dimensions, types and structures. They shaped the contour of this new science based on established concepts and principles of statistics and data analysis with the extensive use of the increasing power of computer tools.
+
+In 1996, members of the International Federation of Classification Societies (IFCS) met in Kobe for their biennial conference. Here, for the first time, the term data science is included in the title of the conference ("Data Science, classification, and related methods"),[19] after the term was introduced in a roundtable discussion by Chikio Hayashi.[4]
+
+In November 1997, C.F. Jeff Wu gave the inaugural lecture entitled "Statistics = Data Science?"[20] for his appointment to the H. C. Carver Professorship at the University of Michigan.[21] In this lecture, he characterized statistical work as a trilogy of data collection, data modeling and analysis, and decision making. In his conclusion, he initiated the modern, non-computer science, usage of the term "data science" and advocated that statistics be renamed data science and statisticians data scientists.[20] Later, he presented his lecture entitled "Statistics = Data Science?" as the first of his 1998 P.C. Mahalanobis Memorial Lectures.[22] These lectures honor Prasanta Chandra Mahalanobis, an Indian scientist and statistician and founder of the Indian Statistical Institute.
+
+In 2001, William S. Cleveland introduced data science as an independent discipline, extending the field of statistics to incorporate "advances in computing with data" in his article "Data Science: An Action Plan for Expanding the Technical Areas of the Field of Statistics," which was published in Volume 69, No. 1, of the April 2001 edition of the International Statistical Review / Revue Internationale de Statistique.[23] In his report, Cleveland establishes six technical areas which he believed to encompass the field of data science: multidisciplinary investigations, models and methods for data, computing with data, pedagogy, tool evaluation, and theory.
+
+In April 2002, the International Council for Science (ICSU): Committee on Data for Science and Technology (CODATA)[24] started the Data Science Journal,[25] a publication focused on issues such as the description of data systems, their publication on the internet, applications and legal issues.[26] Shortly thereafter, in January 2003, Columbia University began publishing The Journal of Data Science,[27] which provided a platform for all data workers to present their views and exchange ideas. The journal was largely devoted to the application of statistical methods and quantitative research. In 2005, The National Science Board published "Long-lived Digital Data Collections: Enabling Research and Education in the 21st Century" defining data scientists as "the information and computer scientists, database and software and programmers, disciplinary experts, curators and expert annotators, librarians, archivists, and others, who are crucial to the successful management of a digital data collection" whose primary activity is to "conduct creative inquiry and analysis."[28]
+
+Around 2007,[citation needed] Turing award winner Jim Gray envisioned "data-driven science" as a "fourth paradigm" of science that uses the computational analysis of large data as primary scientific method[5][6] and "to have a world in which all of the science literature is online, all of the science data is online, and they interoperate with each other."[29]
+
+In the 2012 Harvard Business Review article "Data Scientist: The Sexiest Job of the 21st Century",[8] DJ Patil claims to have coined this term in 2008 with Jeff Hammerbacher to define their jobs at LinkedIn and Facebook, respectively. He asserts that a data scientist is "a new breed", and that a "shortage of data scientists is becoming a serious constraint in some sectors", but describes a much more business-oriented role.
+
+In 2013, the IEEE Task Force on Data Science and Advanced Analytics[30] was launched. In 2013, the first "European Conference on Data Analysis (ECDA)" was organised in Luxembourg, establishing the European Association for Data Science (EuADS). The first international conference: IEEE International Conference on Data Science and Advanced Analytics was launched in 2014.[31] In 2014, General Assembly launched student-paid bootcamp and The Data Incubator launched a competitive free data science fellowship.[32] In 2014, the American Statistical Association section on Statistical Learning and Data Mining renamed its journal to "Statistical Analysis and Data Mining: The ASA Data Science Journal" and in 2016 changed its section name to "Statistical Learning and Data Science".[33] In 2015, the International Journal on Data Science and Analytics[34] was launched by Springer to publish original work on data science and big data analytics. In September 2015 the Gesellschaft für Klassifikation (GfKl) added to the name of the Society "Data Science Society" at the third ECDA conference at the University of Essex, Colchester, UK.
+
+Relationship to statistics
+"Data science" has recently become a popular term among business executives.[35] However, many critical academics and journalists see no distinction between data science and statistics, whereas others consider it largely a popular term for "data mining" and "big data".[3] Writing in Forbes, Gil Press argues that data science is a buzzword without a clear definition and has simply replaced “business analytics” in contexts such as graduate degree programs.[9] In the question-and-answer section of his keynote address at the Joint Statistical Meetings of American Statistical Association, noted applied statistician Nate Silver said, “I think data-scientist is a sexed up term for a statistician....Statistics is a branch of science. Data scientist is slightly redundant in some way and people shouldn’t berate the term statistician.”[11] Similarly, in business sector, multiple researchers and analysts state that data scientists alone are far from being sufficient in granting companies a real competitive advantage[36] and consider data scientists as only one of the four greater job families companies require to leverage big data effectively, namely: data analysts, data scientists, big data developers and big data engineers.[37]
+
+On the other hand, responses to criticism are as numerous. In a 2014 Wall Street Journal article, Irving Wladawsky-Berger compares the data science enthusiasm with the dawn of computer science. He argues data science, like any other interdisciplinary field, employs methodologies and practices from across the academia and industry, but then it will morph them into a new discipline. He brings to attention the sharp criticisms of computer science, now a well respected academic discipline, had to once face.[38] Likewise, NYU Stern's Vasant Dhar, as do many other academic proponents of data science,[38] argues more specifically in December 2013 that data science is different from the existing practice of data analysis across all disciplines, which focuses only on explaining data sets. Data science seeks actionable and consistent pattern for predictive uses.[1] This practical engineering goal takes data science beyond traditional analytics. Now the data in those disciplines and applied fields that lacked solid theories, like health science and social science, could be sought and utilized to generate powerful predictive models.[1]
+
+In an effort similar to Dhar's, Stanford professor   Donoho, in September 2015, takes the proposition further by rejecting three simplistic and misleading definitions of data science in lieu of criticisms.[39] First, for Donoho, data science does not equate to big data, in that the size of the data set is not a criterion to distinguish data science and statistics.[39] Second, data science is not defined by the computing skills of sorting big data sets, in that these skills are already generally used for analyses across all disciplines.[39] Third, data science is a heavily applied field where academic programs right now do not sufficiently prepare data scientists for the jobs, in that many graduate programs misleadingly advertise their analytics and statistics training as the essence of a data science program.[39][40] As a statistician, Donoho, following many in his field, champions the broadening of learning scope in the form of data science,[39] like John Chambers who urges statisticians to adopt an inclusive concept of learning from data,[41] or like William Cleveland who urges to prioritize extracting from data applicable predictive tools over explanatory theories.[23] Together, these statisticians envision an increasingly inclusive applied field that grows out of traditional statistics and beyond.
+
+For the future of data science, Donoho projects an ever-growing environment for open science where data sets used for academic publications are accessible to all researchers.[39] US National Institute of Health has already announced plans to enhance reproducibility and transparency of research data.[42] Other big journals are likewise following suit.[43][44] This way, the future of data science not only exceeds the boundary of statistical theories in scale and methodology, but data science will revolutionize current academia and research paradigms.[39] As Donoho concludes, "the scope and impact of data science will continue to expand enormously in coming decades as scientific data and data about science itself become ubiquitously available."[39]
+
+
+A.I. Artificial Intelligence, also known as A.I., is a 2001 American science fiction drama film directed by Steven Spielberg. The screenplay by Spielberg and screen story by Ian Watson were loosely based on the 1969 short story "Supertoys Last All Summer Long" by Brian Aldiss. The film was produced by Kathleen Kennedy, Spielberg and Bonnie Curtis. It stars Haley Joel Osment, Jude Law, Frances O'Connor, Brendan Gleeson and William Hurt. Set in a futuristic post-climate change society, A.I. tells the story of   (Osment), a child-like android uniquely programmed with the ability to love.
+
+Development of A.I. originally began with producer-director Stanley Kubrick, after he acquired the rights to Aldiss' story in the early 1970s. Kubrick hired a series of writers until the mid-1990s, including Brian Aldiss, Bob Shaw, Ian Watson, and Sara Maitland. The film languished in protracted development for years, partly because Kubrick felt computer-generated imagery was not advanced enough to create the   character, whom he believed no child actor would convincingly portray. In 1995, Kubrick handed A.I. to Spielberg, but the film did not gain momentum until Kubrick's death in 1999. Spielberg remained close to Watson's film treatment for the screenplay.
+
+The film received positive reviews, and grossed approximately $235 million. The film was nominated for two Academy Awards at the 74th Academy Awards, for Best Visual Effects and Best Original Score (by John Williams).
+
+In a 2016 BBC poll of 177 critics around the world, Steven Spielberg's A.I. Artificial Intelligence was voted the eighty-third-greatest film since 2000.[3] A.I. is dedicated to Stanley Kubrick.
+
+
+
+In the late 22nd century, rising sea levels from global warming have wiped out coastal cities, reducing the world's population. Mecha, humanoid robots seemingly capable of complex thought but lacking in emotions, have been created.
+
+In Madison,  , a prototype Mecha child capable of experiencing love, is given to Henry Swinton and his wife Monica, whose son Martin contracted a rare disease and has been placed in suspended animation. Monica feels uneasy with  , but eventually warms to him and activates his imprinting protocol, causing him to have an enduring childlike love for her.   seeks to have Monica express the same love towards him.   is befriended by Teddy, a robotic teddy bear that belonged to Martin.
+
+Martin is unexpectedly cured of his disease and brought home. Martin becomes jealous of  , and taunts him to perform worrisome acts, such as cutting off locks of Monica's hair while she is sleeping. At a pool party, one of Martin's friends pokes   with a knife, triggering his self-protection programming, grabbing onto Martin and falling into the pool. Martin is saved before he drowns, and Henry tells Monica they must return   to his creators to be destroyed. On the way there, Monica has a change of mind, and tells   to run away, avoiding any humans and seeking out unregistered Mecha to protect him.
+
+  and Teddy are captured by a Flesh Fair, where obsolete Mecha are destroyed before cheering crowds. He befriends Gigolo Joe, a male prostitute Mecha on the run from authorities. As the Fair prepare to destroy  , the crowd revolts, thinking they are killing a human child.  , Teddy, and Joe escape in the chaos. Joe agrees to help   find Blue Fairy, whom   remembers from The Adventures of Pinocchio, and believes can turn him into a real boy, allowing Monica to love him. At the decadent resort town of Rouge City, "Dr. Know", a holographic answer engine, directs them to the top of Rockefeller Center in the flooded ruins of Manhattan. There,   meets a copy of himself and destroys it. He then meets Professor Hobby, his creator, who tells   he was built in the image of his dead son  . The engineers are thrilled by his ability to have a will without being programmed, and have been monitoring him since leaving Monica, and altered Dr. Know to direct   here.   finds many more copies of him, as well as a female variant Darlene, boxed and ready to be shipped.
+
+Disheartened,   lets himself fall from a ledge of the building, and while underwater, catches sight of the Blue Fairy before Joe rescues him in an amphibicopter. Before   can explain, Joe is captured via electromagnet by authorities, but Joe sets the copter's controls to submerge, and tells   to remember him.   and Teddy dive to see the Fairy, which turns out to be a statue at the now-sunken Coney Island. The two become trapped when the Wonder Wheel falls on their vehicle.   repeatedly asks the Fairy to turn him into a real boy. Eventually the ocean freezes and  's power source is depleted.
+
+Two thousand years later, humans are extinct, and Manhattan is buried under glacial ice. The Mecha have evolved into an advanced silicon-based form called Specialists, and have become interested in learning about humanity. They find   and Teddy, the original Mecha that lived among humans, making them special. The Specialists revive   and Teddy.   walks to the frozen Fairy statue, which collapses when he touches it. Sometime later,   wakes in a recreation of the Swinton home created by the Specalists from his memories, who want to make   happy so that he will help them learn about humans. While they cannot make   a real boy, the Specalists can bring back any human using genetic material, but for one day only. Teddy reveals that he kept the locks of Monica's hair, and   wishes for the Specalists to bring back Monica.   spends what he considers a perfect day with Monica, as Monica falls asleep that night, she tells him, "I do love you. I have always loved you."   finally falls asleep as well, having achieved Monica's love, while Teddy watches over both of them.
+
+Graph
+Graph
+Graph
+Graph
+Graph
+Graph
+Graph
+Graph
+Graph
+Graph
+Graph
+Graph
+
+Artificial_Intelligence
+Artificial_Intelligence
+Artificial_Intelligence
+Artificial_Intelligence
+
+
+
+
